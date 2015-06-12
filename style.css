@@ -1,0 +1,173 @@
+html {
+    height: 100%;
+}
+body {
+    background-color: #EFF3E5;
+}
+
+header h1 ,header h2
+{
+    margin-left: 33%;
+    position: absolute;
+    font-size: 2em;
+  
+   
+}
+header h2 {
+    margin-top: 150px;
+    color: white;
+}
+.logo {
+    background: transparent;
+}
+.mn {
+    width: 180px;
+    position: absolute;
+    left: 370px;
+    top: 4px;
+   
+   
+}
+
+header {
+    background: url(images/logo.png) no-repeat;
+    margin-left: -10px;
+    margin-top: -20px;
+    margin-right: -10px;
+    height: 220px;
+    -webkit-filter: drop-shadow(rgba(0, 0, 0, 0.8) 0px 1px 2px);
+ }
+nav
+{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    background-color: #555747;
+    color: #fef4e9;
+    margin-top: 180px;
+    height: 50px;
+}
+
+nav ul
+{
+    list-style-type: disc;
+}
+
+nav li
+{
+    display: inline-block;
+    margin-right: 30px;
+   
+    
+}
+
+nav a
+{
+    font-size: 1.2em;
+    color: #ffffff;
+    text-decoration: none;
+    width: 50px;
+    
+}
+nav a:hover {
+    text-decoration: underline;
+    color: black;
+    border-bottom-style: groove;
+    box-shadow: 10px 5px 10px 5px;
+    background-color: aliceblue;
+    border-radius: 3px 0px 3px 0px;
+    border-top-color: brown;
+    
+}
+
+
+    
+section {
+    width: 60%;
+    margin: 0 auto;
+    padding: 15px;
+    box-shadow: 5px 5px 5px 3px;
+
+}
+.logo2{
+    box-shadow: 1px 1px 1px 1px;
+    border-radius: 50%;
+    margin: 5px 5px 5px -25px;
+    display: inline-block;
+    
+}
+section h3 {
+    color: gray;
+}
+.titre2, .equip{
+ color: black;
+ border-bottom: 1px solid black;
+ text-align: center;
+}
+footer {
+    height: auto;
+    background-color: #555747;
+    margin-left: -10px;
+    margin-right: -10px;
+    -webkit-filter: drop-shadow(rgba(0, 0, 0, 0.8) 0px 1px 2px);
+    }
+.nav_foot a {
+    text-decoration: none;
+    color: white;
+   
+   
+}
+
+.nav_foot {
+     text-align: center;
+     margin-left: 40%;
+    display: inline-block;
+    
+    
+}
+    
+.crouaud {
+    color: white;
+    margin: 0 auto;
+    margin-left: 35%;
+}
+.baton1 {
+    width: 100%;
+}
+.dragonne {
+    display: inline-block;
+}
+.dragonne2 {
+    display: inline-block;
+    margin-left: 30%;
+    
+}
+.chaussure {
+    display: inline-block;
+    margin-left: 35%;
+}
+.polaire {
+    height: 25%;
+    width: 25%;
+    display: ;
+    margin-left: 35%;
+    
+}
+.logo_fede {
+    border-radius: 5px;
+    border: 1px solid black;
+    display: inline-block;
+    margin-left: 35%;
+    box-shadow: 1px 1px 1px 1px;
+    margin-top: 20px;
+    -webkit-filter: drop-shadow(rgba(0, 0, 0, 0.8) 0px 1px 2px);
+
+}
+.affiche {
+    display: inline-block;
+    float: right;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 25px 0px 25px 0px;
+    -webkit-filter: drop-shadow(rgba(0, 0, 0, 0.8) 0px 1px 2px);
+}
